@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-19ee12ab5a70131c2975c92491eccd66b8a60bb9.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/GaitLibDemoBeatGradle/gaitLib/unspecified/jars/libs/commons-math3-3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5f8d1d720333aa9a7dee1c949ea70d9ed7da6106">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/commons-math3-3.0-d3dba9a12cbde836a71f4e8522750788e2d8880f.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/GaitLibDemoBeatGradle/gaitLib/unspecified/jars/libs/libsvm (2).jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="114ad9ff1965fb141eb8e7aa2eca05878641f43c">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/libsvm (2)-730a06fedd8acca02264d8b1d990bdf7a0e70062.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-714a8a3da3a48fc4d5069cf8898d2035a5083572.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/classes-57c35a514b9ed7c7b46c2025dce420f7c1ac091d.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/GaitLibDemoBeatGradle/gaitLib/unspecified/jars/libs/LibSVM.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="70200730aab0bf1cbb1b2cb91568a76026177452">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/LibSVM-a58da24772be60735526e76bc1a0175edfcd3a6d.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/GaitLibDemoBeatGradle/gaitLib/unspecified/jars/libs/wekaSTRIPPED.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/wekaSTRIPPED-eb1f993df1e1fb7707df8f430bba326cfd9014a3.jar" />
+    </item>
+    <item
+        jar="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/exploded-aar/GaitLibDemoBeatGradle/gaitLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b7fcfceabbe20f388f522a95dcac1622e3802aa1">
+        <dex dex="/Users/jenna/Desktop/programming/Android/GaitAnalysis/GaitLibDemoBeatGradle/gaitLibDemoBeat/build/intermediates/pre-dexed/debug/classes-b180c2e83b5dd1584c3546994c69a94f458ae4ea.jar" />
+    </item>
+
+</items>

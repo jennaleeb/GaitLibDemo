@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GaitLibDemoBeatGradle.iml" filepath="$PROJECT_DIR$/GaitLibDemoBeatGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaitLib/gaitLib.iml" filepath="$PROJECT_DIR$/gaitLib/gaitLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaitLibDemoBeat/gaitLibDemoBeat.iml" filepath="$PROJECT_DIR$/gaitLibDemoBeat/gaitLibDemoBeat.iml" />
+    </modules>
+  </component>
+</project>
